@@ -1,5 +1,9 @@
 # The World in One Day — Wednesday 18 November 2026
 
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/xomgenit/news-image-18nov-makefun/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/xomgenit/news-image-18nov-makefun/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+
 A bright newspaper front page summing up 18 November 2026's world news in a
 single image — 37 stories across six continents, drawn entirely in code.
 
